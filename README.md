@@ -77,7 +77,7 @@ streamlit run app.py
 - dotenv for managing environment variables.
 
 ## Home page
-![System](https://github.com/user-attachments/assets/def17790-adde-4d52-9f7a-699b1c1c241d)
+![Image](https://github.com/user-attachments/assets/54641d47-b068-4962-afd9-29ada8bcf8ac)
 
 ## Try the App 🚀
 You can try the application live at:
